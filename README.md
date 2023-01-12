@@ -28,6 +28,7 @@ Cardiovascular Heart Disease (CHD) is the leading cause of death annually worldw
 The project has been broken into two sections, and the code for each section can be found at the following:
 
 1. Data Wrangling, Storytelling, and Statistical Analysis Downloading data, extracting features, creating features, data clean up. Analyzing graphically and statistically the impact of each feature on the risk of developing CHD in the next 10 years. Analysing the statistical correlation between features of the dataset and the risk of developing CHD in the next 10 years.
+
 2.In-Depth Analysis Application of machine learning techniques to predict Cardiovascular Risk.
 
 📖Conclusion:
