@@ -37,3 +37,4 @@ From the above exploratory data analysis this are the following conclusions that
 * People over 45 of age are more exposed to cardiovascular disease.
 * As Systolic pressure(sysBP) value increses more than 110 and Normal diastolic blood(diaBP) value increses more than 70, the the risk of cardiovascular disease increse.
 * Man have higher risk of CHD than the Woman. Also the person who smokes, who was on blood pressure medication, who was hypertensive, who has diabetes, who has obesity or overweight, who has high cholesterol, and who has high glucose level have higher chance of getting cardiovascular disease.
+* The variable such as totcol, age, Cigsperday, is_smoking, sysBP, diaBP, glucose is more affecting the target variable.
